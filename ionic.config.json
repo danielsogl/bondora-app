@@ -1,0 +1,7 @@
+{
+  "name": "bondora-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
